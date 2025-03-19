@@ -1,4 +1,4 @@
-// This should break something but who knows if it will
+// Written by JT Taylor - Kind Of
 
 public class MySampleApexClass {       //Class definition and body
    public static Integer myValue = 0;  //Class Member variable
