@@ -1,4 +1,4 @@
-// Written by Diego and Alexia 
+// Broken by JT Taylor
 
 public class MySampleApexClass {       //Class definition and body
    public static Integer myValue = 0;  //Class Member variable
